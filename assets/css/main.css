@@ -1483,6 +1483,9 @@ body.is-ie .spotlights > section {
 .wrapper.style3 {
   background-color: #1E1E1E;
 }
+.wrapper.style4-new {
+  background-color: #140001;
+}
 .wrapper.fullscreen {
   display: -moz-flex;
   display: -webkit-flex;
