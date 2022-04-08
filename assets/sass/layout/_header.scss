@@ -35,7 +35,7 @@
 
 					a {
 						border: 0;
-						color: _palette(fg-light);
+						color: _palette(cultured);
 						display: inline-block;
 						font-size: 0.6em;
 						font-weight: _font(weight-bold);
@@ -43,7 +43,7 @@
 						text-transform: uppercase;
 
 						&:hover {
-							color: _palette(fg);
+							color: _palette(silver-sand);
 						}
 
 						&.active {

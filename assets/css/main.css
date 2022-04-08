@@ -1607,7 +1607,7 @@ body.is-ie .wrapper.fullscreen {
 }
 #header > nav > ul > li a {
   border: 0;
-  color: #efefef;
+  color: #e7ebee;
   display: inline-block;
   font-size: 0.6em;
   font-weight: bold;
@@ -1615,7 +1615,7 @@ body.is-ie .wrapper.fullscreen {
   text-transform: uppercase;
 }
 #header > nav > ul > li a:hover {
-  color: #efefef;
+  color: #b9c1cb;
 }
 #header > nav > ul > li a.active {
   color: #efefef;

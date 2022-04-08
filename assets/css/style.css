@@ -94,8 +94,8 @@ textarea{
 .btn{
 	width: 100%;
 	padding: 1rem 1.5rem;
-	background-color: #5052b5;
-	color: #fff;
+	background-color: #b9c1cb;
+	color: #24282d;
 	border-radius: 24px;
 	font-size: 1.1rem;
 	border: none;
@@ -108,7 +108,8 @@ input  {
 }
 
 .btn:hover{
-    background-color: #b64e91;
+    background-color: black;
+	color: #e7ebee;
 }
 
 .fielding:focus{
